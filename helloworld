@@ -1,0 +1,4 @@
+class KK{
+ public static void
+   System.out.print("hello,world.");
+}
